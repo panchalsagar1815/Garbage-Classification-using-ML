@@ -1,6 +1,6 @@
 # Garbage-Classification-using-ML
 
-Project Title: Garbage Classification using Computer Vision
+
 
 Project Description:
 The "Garbage Classification using Computer Vision" project is a cutting-edge initiative that employs advanced image recognition techniques to enhance waste management processes. Focused on addressing environmental concerns, the project utilizes a convolutional neural network (CNN) and data augmentation methods to classify images of various types of garbage, including plastic, paper, glass, trash, metal, and cardboard.
